@@ -188,6 +188,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mount_Fuji
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a31c3d385a0f4bdcaa488319877b9cf, type: 3}
 --- !u!1 &705507993
@@ -292,17 +297,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 421
+      value: 422.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2662
+      value: 1617
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3118.8
+      value: -4985
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
@@ -377,6 +382,24 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 993442296}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &993442298 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 362fc815b372a459694023ddd5f9fe3f,
+    type: 3}
+  m_PrefabInstance: {fileID: 993442296}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &993442299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 993442298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d52c5405fdfd4613ac369c77a1933d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1020407067
 GameObject:
   m_ObjectHideFlags: 0
@@ -470,6 +493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1250846720}
   - component: {fileID: 1250846721}
+  - component: {fileID: 1250846722}
   m_Layer: 0
   m_Name: BatComputer
   m_TagString: Untagged
@@ -512,3 +536,15 @@ MonoBehaviour:
   windowY: 20
   windowWidth: 300
   windowHeight: 300
+--- !u!114 &1250846722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250846719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b416351b07734488a6a0696a60519e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
