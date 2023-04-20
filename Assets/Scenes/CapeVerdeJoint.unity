@@ -302,7 +302,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2855
+      value: 2852.33
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
@@ -403,6 +403,9 @@ MonoBehaviour:
   minSpeed: 2.23
   maxSpeed: 7.98
   airplane: {fileID: 993442298}
+  AirPlaneEngineSoundClip: {fileID: 0}
+  minAltitude: 2852.3
+  maxAltitude: 3850.5
 --- !u!1 &1020407067
 GameObject:
   m_ObjectHideFlags: 0
