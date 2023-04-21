@@ -193,6 +193,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
+        type: 3}
+      propertyPath: m_TagString
+      value: Mount_Fuji
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a31c3d385a0f4bdcaa488319877b9cf, type: 3}
 --- !u!1 &705507993
@@ -307,7 +312,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -6173
+      value: -5586
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
@@ -406,7 +411,7 @@ MonoBehaviour:
   AirPlaneEngineSoundClip: {fileID: 0}
   minAltitude: 2852.3
   maxAltitude: 3850.5
-  yardsPerSecond: 2
+  yardsPerSecond: 94.2
 --- !u!1 &1020407067
 GameObject:
   m_ObjectHideFlags: 0
