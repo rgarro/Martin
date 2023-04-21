@@ -141,7 +141,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -424
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
         type: 3}
@@ -307,7 +307,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5553
+      value: -6173
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
@@ -402,10 +402,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   minSpeed: 2.23
   maxSpeed: 10.4
-  airplane: {fileID: 993442298}
+  AirPlane: {fileID: 993442298}
   AirPlaneEngineSoundClip: {fileID: 0}
   minAltitude: 2852.3
   maxAltitude: 3850.5
+  yardsPerSecond: 2
 --- !u!1 &1020407067
 GameObject:
   m_ObjectHideFlags: 0
