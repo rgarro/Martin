@@ -312,7 +312,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5176
+      value: -5078
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 362fc815b372a459694023ddd5f9fe3f,
         type: 3}
@@ -542,8 +542,8 @@ MonoBehaviour:
   RestartIcon: {fileID: 2800000, guid: 78bb228d9ee2a4d0fad542b440a791f8, type: 3}
   IconX: 10
   IconY: 10
-  IconWidth: 128
-  IconHeight: 128
+  IconWidth: 60
+  IconHeight: 60
   windowX: 20
   windowY: 20
   windowWidth: 300
