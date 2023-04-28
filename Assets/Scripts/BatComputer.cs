@@ -11,15 +11,10 @@ using UnityEngine;
 *   \ |/   \.-.  .-./   \| /
 *    '._       \/       _.'
 *       ''--..____..--''
-*  Mataron a Cachudo el de la Leon IIIX
-* Mataron a Gato cole con inyeccion lethal 
-* El tombo nazi puso tres inyecciones letales
-* El padre minor puso dos
-* Parmenio Medina vendia turismo de verdugo y captura
-* sadicos pankasilas de yakarta mataron a medio pabellon
-* en la reforma y san sebastian 
-* Luis Alberto monge trajo a los pankasilas para guerriar a los presos religiosos
-* Los tres tombos que eran el sicopata fueron enterrados vivos en un contenedor cerca de parrita
+* Check out my gravel pit
+* A mystery unravelin'
+* Wu-Tang is the CD that I travel with
+* Don't go against the grain if you can't handle it
 *
 *
 *@author Rolando<rolando@emptyart.xyz>

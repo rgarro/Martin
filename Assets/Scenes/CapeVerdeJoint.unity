@@ -577,7 +577,7 @@ MonoBehaviour:
   windowY: 65
   windowHeight: 170
   windowWidth: 150
-  instructionsString: "Drive: Arrow Keys \nShoot: spacebar"
+  instructionsString: "Move: Arrow Keys \nShoot: spacebar"
   labelString: Instructions
   marginVal: 25
   style:
