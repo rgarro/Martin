@@ -412,6 +412,16 @@ MonoBehaviour:
   minAltitude: 1932.6
   maxAltitude: 3850.5
   yardsPerSecond: 95.16
+  sideDiveAccelerationRate: 2
+  enginePowerSliderYpos: 25
+  enginePowerSliderXpos: 25
+  engineThrottleLabel: Engine Power
+  diveCurveAngleZ: 1
+  elevationCurveAngleX: 3.46
+  descendingCurveAngleX: -2.77
+  elevationStep: 0.2
+  maxZBoundaryPos: 10.2
+  returnZpos: 900.1
 --- !u!1 &1020407067
 GameObject:
   m_ObjectHideFlags: 0
