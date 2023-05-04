@@ -408,7 +408,8 @@ MonoBehaviour:
   minSpeed: 2.21
   maxSpeed: 10.4
   AirPlane: {fileID: 993442298}
-  AirPlaneEngineSoundClip: {fileID: 0}
+  AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
+    type: 3}
   minAltitude: 1932.6
   maxAltitude: 3850.5
   yardsPerSecond: 95.16
