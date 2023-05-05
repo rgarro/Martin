@@ -590,7 +590,7 @@ MonoBehaviour:
   windowWidth: 150
   instructionsString: "Move: Arrow Keys \nShoot: spacebar"
   labelString: Instructions
-  marginVal: 25
+  marginVal: 26.2
   style:
     m_Name: 
     m_Normal:
