@@ -405,19 +405,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4610e7e427dea4bb583ac0bc1c5c20d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpeed: 2.03
-  maxSpeed: 10.4
+  minSpeed: 2.34
+  maxSpeed: 10.81
   AirPlane: {fileID: 993442298}
   AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
     type: 3}
   minAltitude: 1932.6
   maxAltitude: 3850.5
   yardsPerSecond: 95.16
-  sideDiveAccelerationRate: 2
+  sideDiveAccelerationRate: 2.4
   enginePowerSliderYpos: 25
   enginePowerSliderXpos: 25
   engineThrottleLabel: Engine Power
   diveCurveAngleZ: 1
+  cockpit_is_closed: 0
   elevationCurveAngleX: 4.16
   descendingCurveAngleX: -2.77
   elevationStep: 0.2
