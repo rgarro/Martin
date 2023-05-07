@@ -418,7 +418,7 @@ MonoBehaviour:
   enginePowerSliderXpos: 25
   engineThrottleLabel: Engine Power
   diveCurveAngleZ: 1
-  cockpit_is_closed: 0
+  cockpit_is_closed: 1
   elevationCurveAngleX: 4.16
   descendingCurveAngleX: -2.77
   elevationStep: 0.2
