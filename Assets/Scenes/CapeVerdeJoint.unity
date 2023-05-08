@@ -586,7 +586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   windowX: 10
-  windowY: 65
+  windowY: 80
   windowHeight: 170
   windowWidth: 150
   instructionsString: "Move: Arrow Keys \nShoot: spacebar"
