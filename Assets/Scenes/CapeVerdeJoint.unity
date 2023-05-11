@@ -408,7 +408,7 @@ MonoBehaviour:
   minSpeed: 2.34
   maxSpeed: 10.81
   AirPlane: {fileID: 993442298}
-  Cockpit: {fileID: 0}
+  Cockpit: {fileID: 993442300}
   AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
     type: 3}
   minAltitude: 1932.6
@@ -422,9 +422,15 @@ MonoBehaviour:
   cockpit_is_closed: 1
   elevationCurveAngleX: 4.16
   descendingCurveAngleX: -3.37
-  elevationStep: 0.2
+  elevationStep: 0.35
   maxZBoundaryPos: 10.2
   returnZpos: 900.25
+--- !u!1 &993442300 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 204155125928160958, guid: 362fc815b372a459694023ddd5f9fe3f,
+    type: 3}
+  m_PrefabInstance: {fileID: 993442296}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1020407067
 GameObject:
   m_ObjectHideFlags: 0
