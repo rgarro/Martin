@@ -443,7 +443,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -688,13 +688,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1abb39db6c99440148a3a3570d00ae92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  windowX: 10
-  windowY: 80
-  windowHeight: 170
-  windowWidth: 150
+  windowX: -32.3
+  windowY: 81.2
+  windowHeight: 171.6
+  windowWidth: 150.4
   instructionsString: "Move: Arrow Keys a Increase Speed \nShoot: spacebar "
-  labelString: Instructions
-  marginVal: 26.2
+  labelString: Game Instructions
+  marginVal: 26.29
   style:
     m_Name: 
     m_Normal:
