@@ -687,6 +687,11 @@ PrefabInstance:
       propertyPath: m_Texture
       value: 
       objectReference: {fileID: 2800000, guid: 2e04d7b7bda47474d8d4b2a4eb850d2a, type: 3}
+    - target: {fileID: 768911565598042901, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 768911565598042904, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_LocalPosition.x
