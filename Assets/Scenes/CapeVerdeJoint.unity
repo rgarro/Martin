@@ -325,7 +325,7 @@ MonoBehaviour:
   minAltitude: 1932.6
   maxAltitude: 3850.5
   yardsPerSecond: 103.6
-  sideDiveAccelerationRate: 2.4
+  sideDiveAccelerationRate: 5.82
   enginePowerSliderYpos: 40
   enginePowerSliderXpos: 200
   engineThrottleLabel: Engine Power
@@ -339,6 +339,15 @@ MonoBehaviour:
   maxYardsPerSecond: 197.5
   initYardsPerSecond: 66.5
   NeedleSpeed: {fileID: 301497991}
+  closeCockpitIcon: {fileID: 2800000, guid: ae1cbf7ca813543cead11bc72b002680, type: 3}
+  IconX: 467
+  IconY: 10
+  IconWidth: 60
+  IconHeight: 60
+  windowX: 20
+  windowY: 20
+  windowWidth: 300
+  windowHeight: 300
 --- !u!82 &993442301
 AudioSource:
   m_ObjectHideFlags: 0
@@ -865,7 +874,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919132149074592937}
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 429.3, y: 3471, z: -5077.45}
+  m_LocalPosition: {x: 429, y: 3470.63, z: -5077.45}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children:
   - {fileID: 4227792183663305556}
