@@ -339,6 +339,7 @@ MonoBehaviour:
   maxYardsPerSecond: 197.5
   initYardsPerSecond: 66.5
   NeedleSpeed: {fileID: 301497991}
+  NeedleAltitude: {fileID: 1688558685}
   closeCockpitIcon: {fileID: 2800000, guid: ae1cbf7ca813543cead11bc72b002680, type: 3}
   IconX: 467
   IconY: 10
@@ -848,6 +849,18 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1688558683}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1688558685 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 768911566454794994, guid: 759be54752df295478e1619fa41cdbe3,
+    type: 3}
+  m_PrefabInstance: {fileID: 1688558683}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &204155125847250758
 GameObject:
   m_ObjectHideFlags: 0
