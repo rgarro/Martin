@@ -338,6 +338,8 @@ MonoBehaviour:
   returnZpos: 900.25
   maxYardsPerSecond: 197.5
   initYardsPerSecond: 66.5
+  degreesToCloseCokpit: 13.5
+  degreesToOpenCokpit: 18.4
   NeedleSpeed: {fileID: 301497991}
   NeedleAltitude: {fileID: 1688558685}
   closeCockpitIcon: {fileID: 2800000, guid: ae1cbf7ca813543cead11bc72b002680, type: 3}
