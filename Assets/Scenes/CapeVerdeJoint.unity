@@ -316,8 +316,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4610e7e427dea4bb583ac0bc1c5c20d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpeed: 2.34
-  maxSpeed: 10.81
+  minSpeed: 2.55
+  maxSpeed: 11.16
   AirPlane: {fileID: 919132149074592937}
   Cockpit: {fileID: 204155125847250758}
   AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
