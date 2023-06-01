@@ -322,8 +322,8 @@ MonoBehaviour:
   Cockpit: {fileID: 204155125847250758}
   AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
     type: 3}
-  minAltitude: 1932.6
-  maxAltitude: 3850.5
+  minAltitude: 1400
+  maxAltitude: 3472
   yardsPerSecond: 103.6
   sideDiveAccelerationRate: 5.82
   enginePowerSliderYpos: 40
@@ -889,7 +889,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919132149074592937}
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 429, y: 3470.63, z: -5077.45}
+  m_LocalPosition: {x: 429, y: 2640, z: -5077.45}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children:
   - {fileID: 4227792183663305556}
