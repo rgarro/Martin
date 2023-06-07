@@ -328,7 +328,7 @@ MonoBehaviour:
   sideDiveAccelerationRate: 5.82
   enginePowerSliderYpos: 40
   enginePowerSliderXpos: 200
-  engineThrottleLabel: ':: Engine Power ::'
+  engineThrottleLabel: '::: Engine Power :::'
   diveCurveAngleZ: 1
   cockpit_is_closed: 1
   elevationCurveAngleX: 4.16
@@ -349,8 +349,8 @@ MonoBehaviour:
   IconHeight: 60
   windowX: 20
   windowY: 20
-  windowWidth: 300
-  windowHeight: 300
+  windowWidth: 305
+  windowHeight: 305
 --- !u!82 &993442301
 AudioSource:
   m_ObjectHideFlags: 0
