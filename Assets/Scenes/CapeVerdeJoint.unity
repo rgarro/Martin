@@ -195,6 +195,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2845779275431937956, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2715568378587492151, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2691375318417546766, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
         type: 3}
       propertyPath: m_Name
@@ -203,7 +218,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7a31c3d385a0f4bdcaa488319877b9cf,
         type: 3}
@@ -543,6 +558,7 @@ GameObject:
   - component: {fileID: 1250846722}
   - component: {fileID: 1250846723}
   - component: {fileID: 1250846724}
+  - component: {fileID: 1250846725}
   m_Layer: 0
   m_Name: BatComputer
   m_TagString: Untagged
@@ -701,6 +717,24 @@ MonoBehaviour:
   IconWidth: 60
   IconHeight: 60
   downloadUrl: https://matterporttest-f4387.firebaseapp.com/TheGospelOfLuke.zip
+--- !u!114 &1250846725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250846719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21f752e540f7dcb4b832b8c8a35bacbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DownloadIcon: {fileID: 2800000, guid: 7cccc4abc667e44ef88d1f775570cf6f, type: 3}
+  IconX: 545
+  IconY: 10
+  IconWidth: 60
+  IconHeight: 60
+  downloadUrl: https://mantracounter-cf06f.web.app/gospelOfLuke3.zip
 --- !u!1001 &1688558683
 PrefabInstance:
   m_ObjectHideFlags: 0
