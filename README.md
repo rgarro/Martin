@@ -3,5 +3,5 @@
 $99 is the cost of replacement bladders for my kitesurf. 
 Nobody has gave me any money for a Unity3d script ..
 This Game has to save the score in Dreamhost
-Will be kitesurfing the Arenal somewhere in the future, a neighbor has a Delorean in the garage, $1 PEPSI CAN ...h
+Will be kitesurfing in JACO Beach one of this. days, $1 PEPSI CAN ...h
 Out kitesurfing again ...
