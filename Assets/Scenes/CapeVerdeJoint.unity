@@ -1140,7 +1140,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Texture
       value: 
-      objectReference: {fileID: 2800000, guid: 3125697568d514e5fb683abb824f6004, type: 3}
+      objectReference: {fileID: 2800000, guid: 7d19a6b98a4594d599c9e229ed07d887, type: 3}
     - target: {fileID: 768911566454794995, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -1515,8 +1515,8 @@ MonoBehaviour:
   Cockpit: {fileID: 2145959208}
   AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
     type: 3}
-  minAltitude: 1400
-  maxAltitude: 3472
+  minAltitude: 2
+  maxAltitude: 900
   yardsPerSecond: 103.6
   sideDiveAccelerationRate: 5.82
   enginePowerSliderYpos: 40
