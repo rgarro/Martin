@@ -564,6 +564,8 @@ MonoBehaviour:
   enginePowerSliderXpos: 200
   engineThrottleLabel: '::: Engine Power :::'
   diveCurveAngleZ: 1
+  diveAngleLeft: 1
+  diveAngleRight: 1
   cockpit_is_closed: 1
   elevationCurveAngleX: 4.16
   descendingCurveAngleX: -3.37
@@ -1523,6 +1525,8 @@ MonoBehaviour:
   enginePowerSliderXpos: 200
   engineThrottleLabel: '::: Engine Power :::'
   diveCurveAngleZ: 1
+  diveAngleLeft: 30
+  diveAngleRight: -30
   cockpit_is_closed: 1
   elevationCurveAngleX: 4.16
   descendingCurveAngleX: -3.37
