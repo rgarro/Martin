@@ -1322,7 +1322,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 348228ebef83b471eb2a98899498a01b,
         type: 3}
       propertyPath: m_Name
-      value: f35Blue
+      value: F35Blue
       objectReference: {fileID: 0}
     - target: {fileID: 2315894063480321613, guid: 348228ebef83b471eb2a98899498a01b,
         type: 3}
@@ -1518,7 +1518,7 @@ MonoBehaviour:
   AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
     type: 3}
   minAltitude: 2
-  maxAltitude: 900
+  maxAltitude: 600
   yardsPerSecond: 103.6
   sideDiveAccelerationRate: 5.82
   enginePowerSliderYpos: 40
