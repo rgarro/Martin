@@ -963,6 +963,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2145959203}
     m_Modifications:
+    - target: {fileID: 768911564702285669, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.19215687
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911564702285674, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 350
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911564702285674, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 356
+      objectReference: {fileID: 0}
     - target: {fileID: 768911565120329406, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_Texture
