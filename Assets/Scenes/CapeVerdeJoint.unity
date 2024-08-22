@@ -1563,6 +1563,21 @@ MonoBehaviour:
   windowY: 20
   windowWidth: 305
   windowHeight: 305
+--- !u!114 &2145959210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145959206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2c53215dfd7149478c3ac801ea8202e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxZpoint: 3000
+  AirPlane: {fileID: 2145959206}
+  returnPoint: -180
 --- !u!1 &204155125847250758
 GameObject:
   m_ObjectHideFlags: 0
