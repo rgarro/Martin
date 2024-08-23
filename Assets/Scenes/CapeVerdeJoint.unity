@@ -1575,7 +1575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2c53215dfd7149478c3ac801ea8202e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxZpoint: 3000
+  maxZpoint: 3008
   AirPlane: {fileID: 2145959206}
   returnPoint: -180
 --- !u!1 &204155125847250758
