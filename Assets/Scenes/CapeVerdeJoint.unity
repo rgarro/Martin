@@ -1153,6 +1153,46 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 768911565677960125, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.3810704
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911565677960125, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.924546
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911565677960125, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -135.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911565677960125, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911565677960125, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911565677960125, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911565677960125, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 768911566398753961, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 768911566398753963, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_Texture
@@ -1161,17 +1201,17 @@ PrefabInstance:
     - target: {fileID: 768911566454794995, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -60.007156
+      value: -64.521164
       objectReference: {fileID: 0}
     - target: {fileID: 768911566454794995, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_Pivot.x
-      value: 0.62
+      value: -1.23
       objectReference: {fileID: 0}
     - target: {fileID: 768911566454794995, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -20.205414
+      value: -20.205372
       objectReference: {fileID: 0}
     - target: {fileID: 768911566454794995, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
