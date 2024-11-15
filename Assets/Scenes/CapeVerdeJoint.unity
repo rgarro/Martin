@@ -1574,7 +1574,7 @@ MonoBehaviour:
     type: 3}
   minAltitude: 2
   maxAltitude: 600
-  yardsPerSecond: 103.6
+  yardsPerSecond: 102.8
   sideDiveAccelerationRate: 5.82
   enginePowerSliderYpos: 40
   enginePowerSliderXpos: 200
