@@ -1566,7 +1566,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4610e7e427dea4bb583ac0bc1c5c20d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpeed: 2.55
+  minSpeed: 2.56
   maxSpeed: 11.16
   AirPlane: {fileID: 2145959206}
   Cockpit: {fileID: 2145959208}
