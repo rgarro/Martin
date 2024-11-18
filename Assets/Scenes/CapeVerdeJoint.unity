@@ -1288,7 +1288,8 @@ AudioSource:
   m_GameObject: {fileID: 2145959206}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 65f518bda421c45ea821e6e68cd7b4a5,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -1446,3 +1447,11 @@ MonoBehaviour:
   AirPlane: {fileID: 2145959206}
   returnPoint: -180
   maxYpoint: 3000
+--- !u!81 &2145959211
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145959206}
+  m_Enabled: 1
