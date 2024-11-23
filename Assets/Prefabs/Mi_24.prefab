@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 3119682315367409702}
   - component: {fileID: 914127097828089068}
   - component: {fileID: 3995760082197141779}
+  - component: {fileID: 150127220056589091}
+  - component: {fileID: 2770161316871011883}
   m_Layer: 0
   m_Name: Mi_24
   m_TagString: Untagged
@@ -93,3 +95,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+--- !u!54 &150127220056589091
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706685797097651513}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &2770161316871011883
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706685797097651513}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.43, y: 0.42, z: 1.881539}
+  m_Center: {x: -0.0057483907, y: 0.27510172, z: -0.3114731}
