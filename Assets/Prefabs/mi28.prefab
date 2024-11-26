@@ -539,6 +539,7 @@ GameObject:
   - component: {fileID: 2705633067146392407}
   - component: {fileID: 978393283661847756}
   - component: {fileID: 8509907068826552855}
+  - component: {fileID: 3721338722541713170}
   m_Layer: 0
   m_Name: mi28
   m_TagString: Untagged
@@ -575,7 +576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8083efd510dd643b593c5f034a4da7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 55
+  speed: 70
   rotateObject: 1
 --- !u!54 &978393283661847756
 Rigidbody:
@@ -606,6 +607,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: -5.44, y: 5.17, z: 22.16}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3721338722541713170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896156305804475908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf5f7b9d9bf0848af845cd26aa9677b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animationLabel: helimove
 --- !u!1 &4086990912145588187
 GameObject:
   m_ObjectHideFlags: 0
