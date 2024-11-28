@@ -540,8 +540,9 @@ GameObject:
   - component: {fileID: 978393283661847756}
   - component: {fileID: 8509907068826552855}
   - component: {fileID: 3721338722541713170}
+  - component: {fileID: 2718099384933792125}
   m_Layer: 0
-  m_Name: mi28
+  m_Name: mi28Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -620,6 +621,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animationLabel: helimove
+--- !u!95 &2718099384933792125
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896156305804475908}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9dc352e86f13c40cc9cd4fe9e72f3bba, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &4086990912145588187
 GameObject:
   m_ObjectHideFlags: 0
