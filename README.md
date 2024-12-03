@@ -1,4 +1,6 @@
 # Martin
-Nash bargaining
+Nash bargaining an MIT graduate to give me a Job at his material testing lake in Luisiana ...
+The side ARC in a lot of Automobile bodies with Sup Foil ARC means a real tangential displacement of the vehicle in God Brahma mind make the Fifth Dalai Lama bring his Dodge Challenger Hellcat to battle, theres a wind swell in the salt lakes near Lhasa
+Nomucuo Lake is far better than Cumbuco, is where the chinese armies train their pilots ...
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/Martin/master/martin.png)]
 
