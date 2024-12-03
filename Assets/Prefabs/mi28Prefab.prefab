@@ -25,7 +25,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 233723781788715932}
-  m_LocalRotation: {x: 0, y: 0, z: 0.9983246, w: 0.057862923}
+  m_LocalRotation: {x: 0, y: -0, z: 0.9729778, w: -0.23089868}
   m_LocalPosition: {x: 0.024338543, y: -4.8802724, z: 2.0708766}
   m_LocalScale: {x: 0.13999999, y: 0.13999999, z: 0.87476087}
   m_Children:
@@ -38,7 +38,7 @@ Transform:
   - {fileID: 3643171129202134027}
   m_Father: {fileID: 4876626118596738784}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 206.7}
 --- !u!33 &7909197427887081815
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -541,6 +541,7 @@ GameObject:
   - component: {fileID: 8509907068826552855}
   - component: {fileID: 3721338722541713170}
   - component: {fileID: 2718099384933792125}
+  - component: {fileID: 4638317880309521251}
   - component: {fileID: 2299722619277729378}
   m_Layer: 0
   m_Name: mi28Prefab
@@ -616,7 +617,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2896156305804475908}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cf5f7b9d9bf0848af845cd26aa9677b1, type: 3}
   m_Name: 
@@ -642,6 +643,21 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &4638317880309521251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2896156305804475908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03b1a9f98cee03e4b97f991a191791de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heliPad: {fileID: 233723781788715932}
+  rotationSteps: 0.87
+  turnClocwise: 1
 --- !u!114 &2299722619277729378
 MonoBehaviour:
   m_ObjectHideFlags: 0
