@@ -1235,6 +1235,36 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1ab19bd9a96ec4562b853e874609a8a6, type: 2}
+    - target: {fileID: 8721484279181973360, guid: 348228ebef83b471eb2a98899498a01b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00000017788521
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721484279181973360, guid: 348228ebef83b471eb2a98899498a01b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6333133
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721484279181973360, guid: 348228ebef83b471eb2a98899498a01b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7738955
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721484279181973360, guid: 348228ebef83b471eb2a98899498a01b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.00000021737198
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721484279181973360, guid: 348228ebef83b471eb2a98899498a01b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -78.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 8721484279181973360, guid: 348228ebef83b471eb2a98899498a01b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 179.99998
+      objectReference: {fileID: 0}
     - target: {fileID: 8934777400606672865, guid: 348228ebef83b471eb2a98899498a01b,
         type: 3}
       propertyPath: m_IsActive
@@ -1456,11 +1486,11 @@ MonoBehaviour:
   windowWidth: 305
   windowHeight: 305
   farLeftGaugeNeddleCorrection: 70
-  leftFlap: {fileID: 0}
-  rightFlap: {fileID: 0}
-  flapsAsendAngle: 0
-  flapsDescendAngle: 0
-  flapsAngle: 0
+  leftFlap: {fileID: 2145959213}
+  rightFlap: {fileID: 2145959212}
+  flapsAscendAngle: -62.65
+  flapsDescendAngle: -124.6
+  flapsAngle: -89.98
 --- !u!114 &2145959210
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1485,3 +1515,15 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2145959206}
   m_Enabled: 1
+--- !u!1 &2145959212 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8658069354022927937, guid: 348228ebef83b471eb2a98899498a01b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2145959202}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2145959213 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3200981525712879723, guid: 348228ebef83b471eb2a98899498a01b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2145959202}
+  m_PrefabAsset: {fileID: 0}
