@@ -1456,6 +1456,11 @@ MonoBehaviour:
   windowWidth: 305
   windowHeight: 305
   farLeftGaugeNeddleCorrection: 70
+  leftFlap: {fileID: 0}
+  rightFlap: {fileID: 0}
+  flapsAsendAngle: 0
+  flapsDescendAngle: 0
+  flapsAngle: 0
 --- !u!114 &2145959210
 MonoBehaviour:
   m_ObjectHideFlags: 0
