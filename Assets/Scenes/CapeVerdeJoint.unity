@@ -1491,6 +1491,10 @@ MonoBehaviour:
   flapsAscendAngle: -62.65
   flapsDescendAngle: -124.6
   flapsAngle: -89.98
+  flaps_up: 0
+  flaps_down: 0
+  roundObject: {fileID: 8325840741087394067, guid: 9cbee68f83828416e8b1b0b0dd8abb1c,
+    type: 3}
 --- !u!114 &2145959210
 MonoBehaviour:
   m_ObjectHideFlags: 0
