@@ -1542,4 +1542,5 @@ MonoBehaviour:
   AirPlane: {fileID: 2145959206}
   roundObject: {fileID: 8325840741087394067, guid: 9cbee68f83828416e8b1b0b0dd8abb1c,
     type: 3}
-  gunShotClip: {fileID: 0}
+  gunShotClip: {fileID: 8300000, guid: fd37f8d4e80bb4f8cacec7989a31b1aa, type: 3}
+  shootingOn: 1
