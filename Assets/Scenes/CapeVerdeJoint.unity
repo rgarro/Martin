@@ -1491,10 +1491,6 @@ MonoBehaviour:
   flapsAscendAngle: -62.65
   flapsDescendAngle: -124.6
   flapsAngle: -89.98
-  flaps_up: 0
-  flaps_down: 0
-  roundObject: {fileID: 8325840741087394067, guid: 9cbee68f83828416e8b1b0b0dd8abb1c,
-    type: 3}
 --- !u!114 &2145959210
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1531,3 +1527,19 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2145959202}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2145959214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145959206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7010df1b6728a443b9e9cadd1d0eeacd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AirPlane: {fileID: 2145959206}
+  roundObject: {fileID: 8325840741087394067, guid: 9cbee68f83828416e8b1b0b0dd8abb1c,
+    type: 3}
+  gunShotClip: {fileID: 0}
