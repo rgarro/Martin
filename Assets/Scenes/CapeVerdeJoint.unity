@@ -1455,7 +1455,7 @@ MonoBehaviour:
   AirPlaneEngineSoundClip: {fileID: 8300000, guid: 11c34c4849bda4c6fb0878f7a8a1c07d,
     type: 3}
   minAltitude: 2
-  maxAltitude: 600
+  maxAltitude: 500
   yardsPerSecond: 102.8
   sideDiveAccelerationRate: 5.82
   enginePowerSliderYpos: 40
