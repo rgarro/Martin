@@ -1542,5 +1542,22 @@ MonoBehaviour:
   AirPlane: {fileID: 2145959206}
   roundObject: {fileID: 8325840741087394067, guid: 9cbee68f83828416e8b1b0b0dd8abb1c,
     type: 3}
-  gunShotClip: {fileID: 8300000, guid: fd37f8d4e80bb4f8cacec7989a31b1aa, type: 3}
-  shootingOn: 1
+--- !u!114 &2145959215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145959206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aec2eec1f68e14249a00105532b90ef3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  helicopter: {fileID: 2145959206}
+  frontLabelXpos: 908
+  frontLabelYpos: 25
+  leftLabelXpos: 699
+  leftLabelYpos: 25
+  rightLabelXpos: 1122
+  rightLabelYpos: 25
