@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 147539002}
   - component: {fileID: 147539001}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: GarbaniaPlains
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
