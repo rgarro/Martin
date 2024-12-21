@@ -140,7 +140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1a544ea1482d40a1ba0344364a15987, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seconds_to_live: 3
+  seconds_to_live: 8
 --- !u!82 &6243409766615870933
 AudioSource:
   m_ObjectHideFlags: 0
@@ -257,7 +257,7 @@ TrailRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: d89c1aa4489a44986bbc3ca720aa6370, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -287,7 +287,7 @@ TrailRenderer:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
+        value: 0.99999964
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -333,5 +333,5 @@ TrailRenderer:
     shadowBias: 0.5
     generateLightingData: 0
   m_MinVertexDistance: 0.1
-  m_Autodestruct: 0
+  m_Autodestruct: 1
   m_Emitting: 1

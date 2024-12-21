@@ -671,7 +671,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1a544ea1482d40a1ba0344364a15987, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seconds_to_live: 25
+  seconds_to_live: 35
 --- !u!114 &2869749980090381842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -686,7 +686,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   roundObject: {fileID: 6681041832255994216, guid: 83f08f929268e4d5fb97d3f6522bc340,
     type: 3}
-  spaceToFront: 10.35
+  spaceToFront: -30.35
 --- !u!1 &4086990912145588187
 GameObject:
   m_ObjectHideFlags: 0
