@@ -126,7 +126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8083efd510dd643b593c5f034a4da7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 200
+  speed: 210
   rotateObject: 0
 --- !u!114 &7463941890002650331
 MonoBehaviour:
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1a544ea1482d40a1ba0344364a15987, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seconds_to_live: 8
+  seconds_to_live: 12
 --- !u!82 &6243409766615870933
 AudioSource:
   m_ObjectHideFlags: 0
@@ -278,7 +278,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Time: 5
+  m_Time: 10
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 1
@@ -299,7 +299,7 @@ TrailRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.9528302, g: 0.8427453, b: 0.09438412, a: 1}
+      key0: {r: 0.47524452, g: 0.9622642, b: 0.031772893, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
