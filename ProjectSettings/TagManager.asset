@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Mount_Fuji
+  - speedNeedle
+  - vulcanRound
+  - mi28prefab
   layers:
   - Default
   - TransparentFX
