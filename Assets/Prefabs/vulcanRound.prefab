@@ -142,7 +142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8083efd510dd643b593c5f034a4da7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 410
+  speed: 408
   rotateObject: 0
 --- !u!114 &8325840741087394073
 MonoBehaviour:
@@ -363,3 +363,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd4306650bda4ed2b2b3454ccb22226, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyObjectTag: mi28prefab
