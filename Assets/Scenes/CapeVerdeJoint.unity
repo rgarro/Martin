@@ -893,6 +893,7 @@ MonoBehaviour:
     m_FixedHeight: 0
     m_StretchWidth: 1
     m_StretchHeight: 0
+  scorePrefix: Points
 --- !u!114 &1250846728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1713,7 +1714,7 @@ MonoBehaviour:
   AirPlane: {fileID: 2145959206}
   roundObject: {fileID: 8325840741087394067, guid: 9cbee68f83828416e8b1b0b0dd8abb1c,
     type: 3}
-  spaceToFront: 10.1
+  spaceToFront: 11.1
 --- !u!114 &2145959215
 MonoBehaviour:
   m_ObjectHideFlags: 0
