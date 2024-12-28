@@ -364,3 +364,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyObjectTag: mi28prefab
+  scoreManagerTag: BatComputer
+  ptsToIncrease: 10
+  isDamage: 0
+  explosion: {fileID: 3356720770575848103, guid: 19f81cd0efa624d75bf7f2b39ea3df1c,
+    type: 3}
