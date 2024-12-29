@@ -9,6 +9,7 @@ TagManager:
   - vulcanRound
   - mi28prefab
   - BatComputer
+  - F35
   layers:
   - Default
   - TransparentFX
