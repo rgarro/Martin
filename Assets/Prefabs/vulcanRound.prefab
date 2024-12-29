@@ -303,7 +303,7 @@ TrailRenderer:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.7
+        value: 0.100001946
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -367,5 +367,4 @@ MonoBehaviour:
   scoreManagerTag: BatComputer
   ptsToIncrease: 10
   isDamage: 0
-  explosion: {fileID: 3356720770575848103, guid: 19f81cd0efa624d75bf7f2b39ea3df1c,
-    type: 3}
+  explosion: {fileID: 100012, guid: 57149fc6cdf134e1e99d28f566603fc1, type: 3}

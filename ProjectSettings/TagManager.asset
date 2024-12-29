@@ -8,6 +8,7 @@ TagManager:
   - speedNeedle
   - vulcanRound
   - mi28prefab
+  - BatComputer
   layers:
   - Default
   - TransparentFX
