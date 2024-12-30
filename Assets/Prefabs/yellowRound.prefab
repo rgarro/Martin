@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 7463941890002650331}
   - component: {fileID: 6243409766615870933}
   - component: {fileID: 7615760622778229312}
+  - component: {fileID: 689986054715118000}
   m_Layer: 0
   m_Name: yellowRound
   m_TagString: Untagged
@@ -335,3 +336,15 @@ TrailRenderer:
   m_MinVertexDistance: 0.1
   m_Autodestruct: 1
   m_Emitting: 1
+--- !u!114 &689986054715118000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6681041832255994216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f69ae62f3fc274ea0941339b0c444f3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
