@@ -822,7 +822,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   windowX: 1200
-  windowY: 30
+  windowY: 255
   windowHeight: 170
   windowWidth: 150
   Score: 0
@@ -845,9 +845,9 @@ MonoBehaviour:
       m_ScaledBackgrounds: []
       m_TextColor: {r: 0, g: 0, b: 0, a: 1}
     m_OnNormal:
-      m_Background: {fileID: 0}
+      m_Background: {fileID: 2800000, guid: 570d8e5fe066a4810994ff759685234c, type: 3}
       m_ScaledBackgrounds: []
-      m_TextColor: {r: 0.16834284, g: 0.23345524, b: 0.9150943, a: 1}
+      m_TextColor: {r: 0.8943129, g: 0.8978605, b: 0.9339623, a: 1}
     m_OnHover:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
@@ -1284,11 +1284,11 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.96
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
+  m_CookieSize: 0
   m_Shadows:
     m_Type: 0
     m_Resolution: -1
@@ -1315,7 +1315,7 @@ Light:
       e32: 0
       e33: 1
     m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
+  m_Cookie: {fileID: 2800000, guid: 570d8e5fe066a4810994ff759685234c, type: 3}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
   m_RenderMode: 0
@@ -1326,7 +1326,7 @@ Light:
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
+  m_BounceIntensity: 4.03
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
@@ -1569,7 +1569,7 @@ Camera:
   m_FOVAxisMode: 0
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 12.426364
+  m_FocalLength: 11.32
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -1578,7 +1578,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 4688
-  field of view: 88
+  field of view: 93.34049
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
