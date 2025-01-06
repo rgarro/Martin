@@ -901,13 +901,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1250846719}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8dd51a0e23df74943a1b6cbf6ed22c32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  windowX: 325
-  windowY: 30
+  windowX: 1300
+  windowY: 270
   windowHeight: 170
   windowWidth: 150
   remainingLife: 100
