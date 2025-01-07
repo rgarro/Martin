@@ -821,8 +821,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b05d10ea5cb3cd4f8b7329e3bd79bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  windowX: 1200
-  windowY: 255
+  windowX: 1347
+  windowY: 106
   windowHeight: 170
   windowWidth: 150
   Score: 0
@@ -831,7 +831,7 @@ MonoBehaviour:
     m_Normal:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
-      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+      m_TextColor: {r: 0.9433962, g: 0.8420027, b: 0.057849795, a: 1}
     m_Hover:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
@@ -845,9 +845,9 @@ MonoBehaviour:
       m_ScaledBackgrounds: []
       m_TextColor: {r: 0, g: 0, b: 0, a: 1}
     m_OnNormal:
-      m_Background: {fileID: 2800000, guid: 570d8e5fe066a4810994ff759685234c, type: 3}
+      m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
-      m_TextColor: {r: 0.8943129, g: 0.8978605, b: 0.9339623, a: 1}
+      m_TextColor: {r: 0.9622642, g: 0.92368984, b: 0.06808472, a: 1}
     m_OnHover:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
@@ -880,7 +880,7 @@ MonoBehaviour:
       m_Right: 0
       m_Top: 0
       m_Bottom: 0
-    m_Font: {fileID: 0}
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 30
     m_FontStyle: 1
     m_Alignment: 0
@@ -906,8 +906,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dd51a0e23df74943a1b6cbf6ed22c32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  windowX: 1300
-  windowY: 270
+  windowX: 1340
+  windowY: 38
   windowHeight: 170
   windowWidth: 150
   remainingLife: 100
@@ -917,7 +917,7 @@ MonoBehaviour:
     m_Normal:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
-      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+      m_TextColor: {r: 0.9339623, g: 0.8904394, b: 0.13656995, a: 1}
     m_Hover:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
@@ -966,9 +966,9 @@ MonoBehaviour:
       m_Right: 0
       m_Top: 0
       m_Bottom: 0
-    m_Font: {fileID: 0}
-    m_FontSize: 0
-    m_FontStyle: 0
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 30
+    m_FontStyle: 1
     m_Alignment: 0
     m_WordWrap: 0
     m_RichText: 1
@@ -1842,7 +1842,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 4.13, y: 2.85, z: 8.92}
+  m_Size: {x: 10.5, y: 6.8, z: 8.92}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &2145959217
 Rigidbody:
