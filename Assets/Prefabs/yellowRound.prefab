@@ -353,3 +353,5 @@ MonoBehaviour:
   ptsToIncrease: 10
   isDamage: 0
   explosion: {fileID: 100012, guid: 57149fc6cdf134e1e99d28f566603fc1, type: 3}
+  inactiveCamera: {fileID: 8141504532178840000, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
+    type: 3}
