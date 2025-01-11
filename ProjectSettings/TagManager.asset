@@ -10,6 +10,7 @@ TagManager:
   - mi28prefab
   - BatComputer
   - F35
+  - inactiveCam
   layers:
   - Default
   - TransparentFX

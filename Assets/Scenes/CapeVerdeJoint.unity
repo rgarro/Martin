@@ -244,6 +244,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8141504532178840000, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
+        type: 3}
+      propertyPath: m_TagString
+      value: inactiveCam
+      objectReference: {fileID: 0}
     - target: {fileID: 8141504532178840029, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
       propertyPath: m_LocalPosition.x
