@@ -11,6 +11,7 @@ TagManager:
   - BatComputer
   - F35
   - inactiveCam
+  - activeCam
   layers:
   - Default
   - TransparentFX
