@@ -309,6 +309,11 @@ PrefabInstance:
       propertyPath: field of view
       value: 57
       objectReference: {fileID: 0}
+    - target: {fileID: 8141504532178840030, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 34530549ed1ef49e1950eeaf15f8b5c4, type: 3}
 --- !u!1 &705507993
@@ -964,7 +969,7 @@ MonoBehaviour:
       m_Right: 0
       m_Top: 0
       m_Bottom: 0
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 3}
     m_FontSize: 30
     m_FontStyle: 1
     m_Alignment: 0
@@ -1050,7 +1055,7 @@ MonoBehaviour:
       m_Right: 0
       m_Top: 0
       m_Bottom: 0
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 3}
     m_FontSize: 30
     m_FontStyle: 1
     m_Alignment: 0
