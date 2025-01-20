@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e8083efd510dd643b593c5f034a4da7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 210
+  speed: 215
   rotateObject: 0
 --- !u!114 &7463941890002650331
 MonoBehaviour:
@@ -354,3 +354,5 @@ MonoBehaviour:
   activeCameraTag: activeCam
   ptsToIncrease: 10
   laexplosion: {fileID: 100004, guid: 36e42b82116ea40dfbe4f66ec3ba10de, type: 3}
+  inactiveCamera: {fileID: 0}
+  activeCamera: {fileID: 0}
