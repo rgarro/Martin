@@ -350,9 +350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyObjectTag: F35
   scoreManagerTag: BatComputer
-  inactiveCameraTag: inactiveCam
-  activeCameraTag: activeCam
+  inactiveCameraTag: camaraInactiva
+  activeCameraTag: camaraInactiva
   ptsToIncrease: 10
   laexplosion: {fileID: 100004, guid: 36e42b82116ea40dfbe4f66ec3ba10de, type: 3}
-  inactiveCamera: {fileID: 0}
-  activeCamera: {fileID: 0}

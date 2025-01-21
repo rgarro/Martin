@@ -247,7 +247,12 @@ PrefabInstance:
     - target: {fileID: 8141504532178840000, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
       propertyPath: m_TagString
-      value: activeCam
+      value: camaraInactiva
+      objectReference: {fileID: 0}
+    - target: {fileID: 8141504532178840000, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8141504532178840029, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
@@ -1581,7 +1586,12 @@ PrefabInstance:
     - target: {fileID: 65702495048144492, guid: 348228ebef83b471eb2a98899498a01b,
         type: 3}
       propertyPath: m_TagString
-      value: activeCam
+      value: camaraActiva
+      objectReference: {fileID: 0}
+    - target: {fileID: 65702495048144492, guid: 348228ebef83b471eb2a98899498a01b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 348228ebef83b471eb2a98899498a01b,
         type: 3}

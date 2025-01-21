@@ -12,6 +12,8 @@ TagManager:
   - F35
   - inactiveCam
   - activeCam
+  - camaraActiva
+  - camaraInactiva
   layers:
   - Default
   - TransparentFX
