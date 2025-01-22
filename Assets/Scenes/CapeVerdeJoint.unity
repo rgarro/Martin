@@ -215,6 +215,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &284363869 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8141504532178840000, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
+    type: 3}
+  m_PrefabInstance: {fileID: 403965192}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &301497991 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 768911565677960124, guid: 759be54752df295478e1619fa41cdbe3,
@@ -262,12 +268,12 @@ PrefabInstance:
     - target: {fileID: 8141504532178840029, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 744
+      value: 136
       objectReference: {fileID: 0}
     - target: {fileID: 8141504532178840029, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 267
+      value: -89
       objectReference: {fileID: 0}
     - target: {fileID: 8141504532178840029, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
@@ -312,7 +318,7 @@ PrefabInstance:
     - target: {fileID: 8141504532178840030, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
       propertyPath: field of view
-      value: 91
+      value: 77
       objectReference: {fileID: 0}
     - target: {fileID: 8141504532178840030, guid: 34530549ed1ef49e1950eeaf15f8b5c4,
         type: 3}
@@ -704,6 +710,7 @@ GameObject:
   - component: {fileID: 1250846726}
   - component: {fileID: 1250846727}
   - component: {fileID: 1250846728}
+  - component: {fileID: 1250846729}
   m_Layer: 0
   m_Name: BatComputer
   m_TagString: BatComputer
@@ -1073,6 +1080,33 @@ MonoBehaviour:
     m_FixedHeight: 0
     m_StretchWidth: 1
     m_StretchHeight: 0
+--- !u!114 &1250846729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250846719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdc5d1ef658b40919681653945b7151, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttons_x_corner: 1209
+  btnSkin: {fileID: 0}
+  GunCamera2d: {fileID: 2800000, guid: 945ff0a8cd055417a92542c6acbb3694, type: 3}
+  FollowIcon: {fileID: 2800000, guid: e3d8b5c3f68ff44bf85c6df7a11a9e3c, type: 3}
+  gun_camera: {fileID: 284363869}
+  follow_camera: {fileID: 2145959204}
+  boxWidth: 265
+  boxHeight: 126
+  boxY: 199
+  buttonWidth: 80
+  buttonHeight: 80
+  buttonY: 227
+  boxLabel: Cameras
+  displayButtons: 1
+  spaceXCornerFromFirst: 175
 --- !u!1001 &1688558683
 PrefabInstance:
   m_ObjectHideFlags: 0
