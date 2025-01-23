@@ -1120,7 +1120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 857139f5934884cb1a84aa84cb6d917c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  f22HitByRocketExplode: {fileID: 100004, guid: 36e42b82116ea40dfbe4f66ec3ba10de,
+  f22HitByRocketExplode: {fileID: 100012, guid: 57149fc6cdf134e1e99d28f566603fc1,
     type: 3}
 --- !u!1001 &1688558683
 PrefabInstance:
