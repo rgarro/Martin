@@ -711,6 +711,7 @@ GameObject:
   - component: {fileID: 1250846727}
   - component: {fileID: 1250846728}
   - component: {fileID: 1250846729}
+  - component: {fileID: 1250846730}
   m_Layer: 0
   m_Name: BatComputer
   m_TagString: BatComputer
@@ -1107,6 +1108,20 @@ MonoBehaviour:
   boxLabel: Cameras
   displayButtons: 0
   spaceXCornerFromFirst: 175
+--- !u!114 &1250846730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250846719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 857139f5934884cb1a84aa84cb6d917c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  f22HitByRocketExplode: {fileID: 100004, guid: 36e42b82116ea40dfbe4f66ec3ba10de,
+    type: 3}
 --- !u!1001 &1688558683
 PrefabInstance:
   m_ObjectHideFlags: 0
