@@ -7,5 +7,5 @@ Advancing a kitesurf tally was the original purpose of this game, I need money t
 
 https://www.paypal.com/paypalme/gospelOfLuke/25
 
-[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/Martin/master/martin.png)]
+[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/Martin/refs/heads/master/martin.png)]
 

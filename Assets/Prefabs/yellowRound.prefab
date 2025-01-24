@@ -258,7 +258,7 @@ TrailRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d89c1aa4489a44986bbc3ca720aa6370, type: 2}
+  - {fileID: -8245465752435397052, guid: 348228ebef83b471eb2a98899498a01b, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -288,7 +288,7 @@ TrailRenderer:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.99999964
+        value: 0.54285777
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -300,7 +300,7 @@ TrailRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.47524452, g: 0.9622642, b: 0.031772893, a: 1}
+      key0: {r: 0.94900155, g: 0.9607843, b: 0.03137252, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
@@ -352,5 +352,6 @@ MonoBehaviour:
   scoreManagerTag: BatComputer
   inactiveCameraTag: camaraInactiva
   activeCameraTag: camaraInactiva
+  bombContainerTag: bolsaNinja
   ptsToIncrease: 10
   laexplosion: {fileID: 100004, guid: 36e42b82116ea40dfbe4f66ec3ba10de, type: 3}
