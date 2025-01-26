@@ -1424,7 +1424,7 @@ Light:
   m_GameObject: {fileID: 1923390648}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 1
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1.17
@@ -1458,7 +1458,7 @@ Light:
       e32: 0
       e33: 1
     m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 2800000, guid: 570d8e5fe066a4810994ff759685234c, type: 3}
+  m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
   m_RenderMode: 0
