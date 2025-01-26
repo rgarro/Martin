@@ -1101,7 +1101,7 @@ MonoBehaviour:
   follow_camera: {fileID: 2145959204}
   boxWidth: 265
   boxHeight: 126
-  boxY: 199
+  boxY: 198
   buttonWidth: 80
   buttonHeight: 80
   buttonY: 227
