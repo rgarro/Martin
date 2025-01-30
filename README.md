@@ -7,5 +7,5 @@ Advancing a kitesurf tally was the original purpose of this game, I need money t
 
 https://www.paypal.com/paypalme/gospelOfLuke/25
 
-[![kyncho y Vallyncha son gays hormonales  ... ](https://raw.githubusercontent.com/rgarro/Martin/refs/heads/master/martin.png)]
+[![kyncho y Volyncha son gays hormonales o tienen una version de HIV  ... ](https://raw.githubusercontent.com/rgarro/Martin/refs/heads/master/martin.png)]
 
