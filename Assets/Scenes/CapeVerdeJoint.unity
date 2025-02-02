@@ -1027,8 +1027,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   windowX: 10
   windowY: 81.2
-  windowHeight: 171.6
-  windowWidth: 150.4
+  windowHeight: 300
+  windowWidth: 86
   instructionsString: "Move: Arrow Keys a Increase Speed \nShoot: spacebar "
   labelString: Game Instructions
   marginVal: 26.29
