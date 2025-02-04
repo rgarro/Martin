@@ -1026,7 +1026,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   windowX: 10
-  windowY: 81.2
+  windowY: 82
   windowHeight: 300
   windowWidth: 86
   instructionsString: "Move: Arrow Keys a Increase Speed \nShoot: spacebar "
@@ -1383,7 +1383,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 2e965ff15f1f54533812096c7011465d, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
-  m_Pitch: 1
+  m_Pitch: 1.3
   Loop: 1
   Mute: 0
   Spatialize: 0
