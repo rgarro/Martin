@@ -1027,7 +1027,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   windowX: 10
   windowY: 82
-  windowHeight: 300
+  windowHeight: 440
   windowWidth: 86
   instructionsString: "Move: Arrow Keys a Increase Speed \nShoot: spacebar "
   labelString: Game Instructions
@@ -1037,7 +1037,7 @@ MonoBehaviour:
     m_Normal:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
-      m_TextColor: {r: 0, g: 0, b: 0, a: 1}
+      m_TextColor: {r: 0.45806792, g: 0.9339623, b: 0.19824673, a: 1}
     m_Hover:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
@@ -1086,9 +1086,9 @@ MonoBehaviour:
       m_Right: 0
       m_Top: 0
       m_Bottom: 0
-    m_Font: {fileID: 0}
-    m_FontSize: 0
-    m_FontStyle: 0
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 22
+    m_FontStyle: 1
     m_Alignment: 0
     m_WordWrap: 0
     m_RichText: 1
@@ -2420,7 +2420,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   helicopter: {fileID: 2145959206}
-  frontLabelXpos: 908
+  frontLabelXpos: 907
   frontLabelYpos: 25
   leftLabelXpos: 699
   leftLabelYpos: 25
