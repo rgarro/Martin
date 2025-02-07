@@ -7,5 +7,10 @@ Advancing a kitesurf tally was the original purpose of this game, I need money t
 
 https://www.paypal.com/paypalme/gospelOfLuke/25
 
+I imitated the sound behind an apocalipse now scene which is written somewhere in the Real Book of jazz but with different pitch, hope you liked the shrimp. 
+
+Goa Morte Music Loop: https://soundcloud.com/dorje-trolo/goamorte
+
+
 [![dj krush ... ](https://raw.githubusercontent.com/rgarro/Martin/refs/heads/master/martin.png)]
 
