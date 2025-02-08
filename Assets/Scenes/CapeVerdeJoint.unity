@@ -1026,9 +1026,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   windowX: 10
-  windowY: 65
-  windowHeight: 685
-  windowWidth: 150
+  windowY: 730
+  windowHeight: 480
+  windowWidth: 200
   instructionsString: "Move with Arrow Keys \n\nElevate until you encouter the Enemy 
     Helicopter \n\nShoot rocket with spacebar \n\nRestart with Key Button"
   labelString: Instructions
@@ -1088,7 +1088,7 @@ MonoBehaviour:
       m_Top: 0
       m_Bottom: 0
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 30
+    m_FontSize: 20
     m_FontStyle: 1
     m_Alignment: 0
     m_WordWrap: 0
@@ -1261,7 +1261,7 @@ MonoBehaviour:
   windowHeight: 170
   windowWidth: 150
   remainingLife: 100
-  lifeToDecreasePerHit: 5
+  lifeToDecreasePerHit: 100
   style:
     m_Name: 
     m_Normal:
