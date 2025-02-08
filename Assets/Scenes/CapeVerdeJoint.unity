@@ -1026,18 +1026,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   windowX: 10
-  windowY: 82
-  windowHeight: 440
-  windowWidth: 86
-  instructionsString: "Move: Arrow Keys a Increase Speed \nShoot: spacebar "
-  labelString: Game Instructions
-  marginVal: 26.29
+  windowY: 65
+  windowHeight: 685
+  windowWidth: 150
+  instructionsString: "Move with Arrow Keys \n\nElevate until you encouter the Enemy 
+    Helicopter \n\nShoot rocket with spacebar \n\nRestart with Key Button"
+  labelString: Instructions
+  marginVal: 25
   style:
     m_Name: 
     m_Normal:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
-      m_TextColor: {r: 0.45806792, g: 0.9339623, b: 0.19824673, a: 1}
+      m_TextColor: {r: 0.6942901, g: 0.9716981, b: 0.050418302, a: 1}
     m_Hover:
       m_Background: {fileID: 0}
       m_ScaledBackgrounds: []
@@ -1087,7 +1088,7 @@ MonoBehaviour:
       m_Top: 0
       m_Bottom: 0
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 22
+    m_FontSize: 30
     m_FontStyle: 1
     m_Alignment: 0
     m_WordWrap: 0
